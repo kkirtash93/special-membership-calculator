@@ -95,7 +95,7 @@ def main():
     file_name = "output.json"
 
     with open(file_name, "w") as file:
-        json.dump(sp_memb_data, file)
+        json.dump(sp_memb_data, file, indent=2)
 
     print(f"JSON data has been written to {file_name}")
 
