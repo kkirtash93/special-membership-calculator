@@ -22,7 +22,7 @@ API_KEY = "WHHQF6XHN4YDRY81MCV4ZWCGWU5IWX9B3W"
 def calculate_data(name, blockchain_address, donut_transactions):
     total_donuts_burned = 0
     total_special_memberships_days = 0
-    older_timestamp = 0
+    active_membership_timestamp = 0
     has_bought_membership = False
     for transaction in donut_transactions:
         if transaction["to"] == BURN_ADDRESS:
@@ -36,11 +36,16 @@ def calculate_data(name, blockchain_address, donut_transactions):
 
             if end_txn_sp_memb_dt >= SUNSET_TIMESTAMP:
                 total_special_memberships_days += tx_special_memberships_days
-                if older_timestamp == 0 or older_timestamp > transaction["timestamp"]:
-                    older_timestamp = transaction["timestamp"]
+                if (
+                    active_membership_timestamp == 0
+                    or active_membership_timestamp > transaction["timestamp"]
+                ):
+                    active_membership_timestamp = transaction["timestamp"]
 
-    if has_bought_membership:
-        spent_days = (SUNSET_DT - datetime.utcfromtimestamp(older_timestamp)).days
+    if has_bought_membership and active_membership_timestamp != 0:
+        spent_days = (
+            SUNSET_DT - datetime.utcfromtimestamp(active_membership_timestamp)
+        ).days
         not_spent_days = total_special_memberships_days - spent_days
         sp_memb_until = SUNSET_DT + timedelta(days=not_spent_days)
 
@@ -81,7 +86,8 @@ def main():
 
             print(f"Retrieving data from: {name}")
             donut_transactions = es.get_token_transactions(
-                contract_address=DONUT_CONTRACT, address=blockchain_address
+                contract_address=DONUT_CONTRACT,
+                address=blockchain_address,
             )
             api_calls += 1
 
