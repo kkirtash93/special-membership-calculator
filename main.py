@@ -46,20 +46,21 @@ def calculate_data(name, blockchain_address, donut_transactions):
                 if (older_timestamp == 0 or older_timestamp > transaction['timestamp'] ):
                     older_timestamp = transaction['timestamp']
 
-        if (has_bought_membership):
-            spent_days = (sp_memb_sunsent_dt - datetime.utcfromtimestamp(older_timestamp)).days
-            not_spent_days = total_special_memberships_days-spent_days
-            sp_memb_until = sp_memb_sunsent_dt+timedelta(days=not_spent_days)
-                
-            return {
-                "username": name,
-                "address":  blockchain_address,
-                "currentMembershipRank": int(spent_days/30),
-                "totalDonutsBurned": total_donuts_burned, 
-                "totalMonthsMembership": total_donuts_burned/sp_memb_cost_per_month,
-                "spentDays": spent_days,
-                "notSpentDays": not_spent_days,
-                "specialMembershipUntil": sp_memb_until.strftime('%Y-%m-%d')
+    if (has_bought_membership):
+        spent_days = (sp_memb_sunsent_dt - datetime.utcfromtimestamp(older_timestamp)).days
+        not_spent_days = total_special_memberships_days-spent_days
+        sp_memb_until = sp_memb_sunsent_dt+timedelta(days=not_spent_days)
+            
+        print(sp_memb_until.strftime('%Y-%m-%d'))
+        return {
+            "username": name,
+            "address":  blockchain_address,
+            "currentMembershipRank": int(spent_days/30),
+            "totalDonutsBurned": total_donuts_burned, 
+            "totalMonthsMembership": total_donuts_burned/sp_memb_cost_per_month,
+            "spentDays": spent_days,
+            "notSpentDays": not_spent_days,
+            "specialMembershipUntil": sp_memb_until.strftime('%Y-%m-%d')
             }
     return None         
 
