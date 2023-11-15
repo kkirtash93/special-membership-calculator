@@ -40,9 +40,9 @@ def calculate_special_membership(
             end_txn_sp_memb_dt = txn_dt + timedelta(days=tx_special_memberships_days)
             end_txn_sp_memb_dt = end_txn_sp_memb_dt.timestamp()
 
+            total_special_memberships_days += tx_special_memberships_days
             if end_txn_sp_memb_dt >= limit_timestamp:
                 has_active_membership = True
-                total_special_memberships_days += tx_special_memberships_days
                 if (
                     active_membership_timestamp == 0
                     or active_membership_timestamp > transaction["timestamp"]
@@ -73,8 +73,7 @@ def calculate_special_membership(
         )
 
         return reddit_user
-
-    if has_bought_membership and not has_active_membership:
+    else:
         reddit_user.update(
             {
                 "spentDays": total_special_memberships_days,
@@ -82,8 +81,6 @@ def calculate_special_membership(
             }
         )
         return reddit_user
-
-    return None
 
 
 def get_limit_timestamp(input_data):
