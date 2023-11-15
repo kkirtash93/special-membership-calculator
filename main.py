@@ -1,13 +1,15 @@
-import csv
 import etherscan
+import csv
 import time
 import json
 import os
-import argparse
 from datetime import datetime, timedelta
 import time
 from dotenv import load_dotenv
+import urllib.request
 
+USERS_FILE_URL = "https://ethtrader.github.io/donut.distribution/users.json"
+SPECIAL_MEMBERSHIP_FILE = "out/special_memberships.json"
 CSV_FILE_PATH = "in/round_128.csv"
 BURN_ADDRESS = "0x0000000000000000000000000000000000000000"
 DONUT_CONTRACT = "0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9"
@@ -123,6 +125,7 @@ def freeze_process(api_calls):
 
 
 def main(input_data):
+    start_time = time.time()
     es = etherscan.Client(
         api_key="WHHQF6XHN4YDRY81MCV4ZWCGWU5IWX9B3W",
         cache_expire_after=5,
@@ -131,12 +134,12 @@ def main(input_data):
     sp_memb_data = []
     api_calls = 0
 
-    with open(CSV_FILE_PATH, "r") as file:
-        csv_reader = csv.DictReader(file)
+    user_json = json.load(urllib.request.urlopen(SPECIAL_MEMBERSHIP_FILE))
 
-        for row in csv_reader:
-            name = row["username"]
-            blockchain_address = row["blockchain_address"]
+    for user in user_json:
+        if user["activeMembership"]:
+            name = user["username"]
+            blockchain_address = user["address"]
 
             api_calls = freeze_process(api_calls)
 
@@ -157,14 +160,19 @@ def main(input_data):
                 if reddit_user:
                     sp_memb_data.append(reddit_user)
 
-    save_data(sp_memb_data, input_data)
+    if len(sp_memb_data) > 0:
+        save_data(sp_memb_data, input_data)
+    end_time = time.time()
+    elapsed_time = end_time - start_time
+
+    print(f"The process took {elapsed_time:.2f} seconds to complete.")
 
 
 load_dotenv()
-main(
-    {
-        "isRedditSunset": False,
-    }
-)
+# main(
+#     {
+#         "isRedditSunset": False,
+#     }
+# )
 
-# main({"isRedditSunset": True, "fileName": "special_memberships_since_reddit_sunset"})
+main({"isRedditSunset": True, "fileName": "special_memberships_since_reddit_sunset"})

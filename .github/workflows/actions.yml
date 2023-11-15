@@ -4,11 +4,13 @@ on:
   push:
     branches:
       - main
+      - feature/**
   pull_request:
     branches:
       - main
+      - feature/**
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/20 * * * *'
 
   workflow_dispatch:
 
