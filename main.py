@@ -104,7 +104,7 @@ def create_and_save_data(sp_memb_data, input_data):
     folder_path = os.getcwd() + "/out/"
     os.makedirs(folder_path, exist_ok=True)
     file_path = os.path.join(folder_path, file_name + ".json")
-    print(sp_memb_data)
+
     with open(file_path, "w") as file:
         json.dump(sp_memb_data, file, indent=2)
 
