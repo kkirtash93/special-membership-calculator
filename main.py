@@ -70,7 +70,7 @@ def calculate_special_membership(
         reddit_user.update(
             {
                 "spentDays": spent_days,
-                "notSpentDays": not_spent_days,
+                "notSpentDays": int(not_spent_days),
             }
         )
 
