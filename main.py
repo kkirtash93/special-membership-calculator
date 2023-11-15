@@ -9,7 +9,7 @@ import sched
 import time
 from dotenv import load_dotenv
 
-CSV_FILE_PATH = "in/round_128.csv"
+CSV_FILE_PATH = "in/test.csv"
 BURN_ADDRESS = "0x0000000000000000000000000000000000000000"
 DONUT_CONTRACT = "0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9"
 
