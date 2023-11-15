@@ -8,7 +8,7 @@ from datetime import datetime, timedelta
 import time
 from dotenv import load_dotenv
 
-CSV_FILE_PATH = "in/round_128.csv"
+CSV_FILE_PATH = "in/test.csv"
 BURN_ADDRESS = "0x0000000000000000000000000000000000000000"
 DONUT_CONTRACT = "0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9"
 
@@ -63,7 +63,8 @@ def calculate_special_membership(
 
     if has_bought_membership and has_active_membership:
         spent_days = (
-            SUNSET_DT - datetime.utcfromtimestamp(active_membership_timestamp)
+            datetime.utcfromtimestamp(limit_timestamp)
+            - datetime.utcfromtimestamp(active_membership_timestamp)
         ).days
         not_spent_days = total_special_memberships_days - spent_days
 
@@ -96,7 +97,7 @@ def get_limit_timestamp(input_data):
         return current_utc_datetime.timestamp()
 
 
-def create_and_save_data(sp_memb_data, input_data):
+def save_data(sp_memb_data, input_data):
     file_name = (
         input_data["fileName"] if "fileName" in input_data else "special_memberships"
     )
@@ -156,7 +157,7 @@ def main(input_data):
                 if reddit_user:
                     sp_memb_data.append(reddit_user)
 
-    create_and_save_data(sp_memb_data, input_data)
+    save_data(sp_memb_data, input_data)
 
 
 load_dotenv()
@@ -165,3 +166,5 @@ main(
         "isRedditSunset": False,
     }
 )
+
+# main({"isRedditSunset": True, "fileName": "special_memberships_since_reddit_sunset"})
