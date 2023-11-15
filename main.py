@@ -158,6 +158,11 @@ def main(input_data):
 
 
 load_dotenv()
+main(
+    {
+        "isRedditSunset": False,
+    }
+)
 # if __name__ == "__main__":
 #     parser = argparse.ArgumentParser(description="Process input data")
 
@@ -167,14 +172,10 @@ load_dotenv()
 
 #     try:
 #         input_data = json.loads(args.input_variable)
-        main(
-            {
-                "isRedditSunset": False,
-            }
-        )
 
-    # except json.JSONDecodeError as e:
-    #     print(f"Error decoding JSON: {e}")
+
+# except json.JSONDecodeError as e:
+#     print(f"Error decoding JSON: {e}")
 
 
 # # Function to be executed periodically
