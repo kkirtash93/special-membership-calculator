@@ -9,7 +9,7 @@ import sched
 import time
 from dotenv import load_dotenv
 
-CSV_FILE_PATH = "in/test.csv"
+CSV_FILE_PATH = "in/round_128.csv"
 BURN_ADDRESS = "0x0000000000000000000000000000000000000000"
 DONUT_CONTRACT = "0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9"
 
@@ -158,23 +158,23 @@ def main(input_data):
 
 
 load_dotenv()
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Process input data")
+# if __name__ == "__main__":
+#     parser = argparse.ArgumentParser(description="Process input data")
 
-    parser.add_argument("input_variable", help="Input variable in JSON format")
+#     parser.add_argument("input_variable", help="Input variable in JSON format")
 
-    args = parser.parse_args()
+#     args = parser.parse_args()
 
-    try:
-        input_data = json.loads(args.input_variable)
+#     try:
+#         input_data = json.loads(args.input_variable)
         main(
             {
                 "isRedditSunset": False,
             }
         )
 
-    except json.JSONDecodeError as e:
-        print(f"Error decoding JSON: {e}")
+    # except json.JSONDecodeError as e:
+    #     print(f"Error decoding JSON: {e}")
 
 
 # # Function to be executed periodically
