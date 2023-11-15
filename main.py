@@ -1,5 +1,6 @@
 import etherscan
 import time
+import os
 import json
 from datetime import datetime
 import time
@@ -8,7 +9,6 @@ from utils import utils
 
 USERS_FILE_URL = "https://ethtrader.github.io/donut.distribution/users.json"
 SPECIAL_MEMBERSHIP_FILE = "out/special_memberships.json"
-CSV_FILE_PATH = "in/round_128.csv"
 BURN_ADDRESS = "0x0000000000000000000000000000000000000000"
 DONUT_CONTRACT = "0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9"
 
@@ -24,7 +24,7 @@ API_LIMIT = 5
 def main(input_data):
     start_time = time.time()
     es = etherscan.Client(
-        api_key="WHHQF6XHN4YDRY81MCV4ZWCGWU5IWX9B3W",
+        api_key=os.getenv("API_KEY"),
         cache_expire_after=5,
     )
 
