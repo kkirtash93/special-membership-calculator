@@ -8,5 +8,695 @@
     "totalBoughtMonthsMembership": 22.0,
     "spentDays": 77,
     "notSpentDays": 592
+  },
+  {
+    "username": "u/Every_Hunt_160",
+    "address": "0x51fa5238F563A48B050bdc69A1Ca91358f1BB337",
+    "activeMembership": true,
+    "membershipRank": 2,
+    "totalDonutsBurned": 400.0,
+    "totalBoughtMonthsMembership": 2.0,
+    "spentDays": 54,
+    "notSpentDays": 6
+  },
+  {
+    "username": "u/InsaneMcFries",
+    "address": "0xcBedBe4f7b04Def3b4ddb581c266a0c45023D99f",
+    "activeMembership": true,
+    "membershipRank": 4,
+    "totalDonutsBurned": 800.0,
+    "totalBoughtMonthsMembership": 4.0,
+    "spentDays": 56,
+    "notSpentDays": 65
+  },
+  {
+    "username": "u/Buzzalu",
+    "address": "0xb89CB46A5Cf811b99A3608C8b9e63aD0DE990Fe0",
+    "activeMembership": true,
+    "membershipRank": 5,
+    "totalDonutsBurned": 1000.0,
+    "totalBoughtMonthsMembership": 5.0,
+    "spentDays": 76,
+    "notSpentDays": 76
+  },
+  {
+    "username": "u/tambaybtc",
+    "address": "0xA792B45bc1Ce5B71a32B79F58D0d5D9fDD28d073",
+    "activeMembership": true,
+    "membershipRank": 12,
+    "totalDonutsBurned": 2400.0,
+    "totalBoughtMonthsMembership": 12.0,
+    "spentDays": 59,
+    "notSpentDays": 306
+  },
+  {
+    "username": "u/pythonskynet",
+    "address": "0xe7F3c9746282d534f8C90fD410624333e23AC565",
+    "activeMembership": true,
+    "membershipRank": 12,
+    "totalDonutsBurned": 2400.0,
+    "totalBoughtMonthsMembership": 12.0,
+    "spentDays": 64,
+    "notSpentDays": 301
+  },
+  {
+    "username": "u/TheNano100",
+    "address": "0x3A11c76440655D4DdFF16a4aDAbBa15E98E89786",
+    "activeMembership": true,
+    "membershipRank": 12,
+    "totalDonutsBurned": 2800.0,
+    "totalBoughtMonthsMembership": 14.0,
+    "spentDays": 37,
+    "notSpentDays": 328
+  },
+  {
+    "username": "u/Fiddlers-list",
+    "address": "0x753F545dCBbC15744C8441089b64D5c567a306b6",
+    "activeMembership": false,
+    "membershipRank": 0,
+    "totalDonutsBurned": 400.0,
+    "totalBoughtMonthsMembership": 2.0,
+    "spentDays": 0,
+    "notSpentDays": 0
+  },
+  {
+    "username": "u/aminok",
+    "address": "0xbEA18A39a1cEe253705eB5e966fe23F26dD109eF",
+    "activeMembership": true,
+    "membershipRank": 389,
+    "totalDonutsBurned": 84200.0,
+    "totalBoughtMonthsMembership": 421.0,
+    "spentDays": 1409,
+    "notSpentDays": 10271
+  },
+  {
+    "username": "u/LivingFondant1419",
+    "address": "0x3630De8985d2B2Ff2D6f0f5876a368ba2C1A9b3a",
+    "activeMembership": true,
+    "membershipRank": 7,
+    "totalDonutsBurned": 1400.0,
+    "totalBoughtMonthsMembership": 7.0,
+    "spentDays": 54,
+    "notSpentDays": 158
+  },
+  {
+    "username": "u/raymv1987",
+    "address": "0x2A043F315F24762937CBCf0EB6CB313a43bDE534",
+    "activeMembership": true,
+    "membershipRank": 24,
+    "totalDonutsBurned": 4800.0,
+    "totalBoughtMonthsMembership": 24.0,
+    "spentDays": 458,
+    "notSpentDays": 272
+  },
+  {
+    "username": "u/mattg1981",
+    "address": "0xd762e68a2d30ab4d836683c421121AbB5b3e1DcC",
+    "activeMembership": true,
+    "membershipRank": 2,
+    "totalDonutsBurned": 400.0,
+    "totalBoughtMonthsMembership": 2.0,
+    "spentDays": 25,
+    "notSpentDays": 35
+  },
+  {
+    "username": "u/Sky-876",
+    "address": "0xDbE3B1F7bea6c329F6DCb8b9fA0D4D27948c22C1",
+    "activeMembership": false,
+    "membershipRank": 0,
+    "totalDonutsBurned": 200.0,
+    "totalBoughtMonthsMembership": 1.0,
+    "spentDays": 0,
+    "notSpentDays": 0
+  },
+  {
+    "username": "u/Negative-Structure51",
+    "address": "0xEeD61A99606b5F433d3E842Ca08Ffdc8825b2cDb",
+    "activeMembership": true,
+    "membershipRank": 3,
+    "totalDonutsBurned": 600.0,
+    "totalBoughtMonthsMembership": 3.0,
+    "spentDays": 51,
+    "notSpentDays": 40
+  },
+  {
+    "username": "u/SuperNoise5209",
+    "address": "0x18722119EA2D21ED8b5E13E796BD92A7345C1802",
+    "activeMembership": true,
+    "membershipRank": 5,
+    "totalDonutsBurned": 1000.0,
+    "totalBoughtMonthsMembership": 5.0,
+    "spentDays": 50,
+    "notSpentDays": 102
+  },
+  {
+    "username": "u/spacsandspacs",
+    "address": "0xE0ae9458499f5F44F561b5DA6D0cd3355F9CE2Bf",
+    "activeMembership": true,
+    "membershipRank": 3,
+    "totalDonutsBurned": 600.0,
+    "totalBoughtMonthsMembership": 3.0,
+    "spentDays": 56,
+    "notSpentDays": 35
+  },
+  {
+    "username": "u/rikbona",
+    "address": "0xd38e0BF45e089EEd644c1A2F3B701fDf8Bd3c2b5",
+    "activeMembership": true,
+    "membershipRank": 2,
+    "totalDonutsBurned": 400.0,
+    "totalBoughtMonthsMembership": 2.0,
+    "spentDays": 27,
+    "notSpentDays": 33
+  },
+  {
+    "username": "u/Carretje",
+    "address": "0x549ab2CfaA7fb1d1B8AF6E0654efb24CC65c76E6",
+    "activeMembership": true,
+    "membershipRank": 3,
+    "totalDonutsBurned": 800.0,
+    "totalBoughtMonthsMembership": 4.0,
+    "spentDays": 45,
+    "notSpentDays": 46
+  },
+  {
+    "username": "u/eonesimoszsss",
+    "address": "0xAf85D799DeA4b959c8c877bFdD2f1c7ccf83549F",
+    "activeMembership": true,
+    "membershipRank": 3,
+    "totalDonutsBurned": 600.0,
+    "totalBoughtMonthsMembership": 3.0,
+    "spentDays": 27,
+    "notSpentDays": 64
+  },
+  {
+    "username": "u/carlslarson",
+    "address": "0x95D9bED31423eb7d5B68511E0352Eae39a3CDD20",
+    "activeMembership": true,
+    "membershipRank": 18578,
+    "totalDonutsBurned": 3691199.9999999995,
+    "totalBoughtMonthsMembership": 18455.999999999996,
+    "spentDays": 1419,
+    "notSpentDays": 555936
+  },
+  {
+    "username": "u/Jake123194",
+    "address": "0x48AFb64D55c79A2E711c14a2Bf903A7C3842baCC",
+    "activeMembership": false,
+    "membershipRank": 0,
+    "totalDonutsBurned": 7200.0,
+    "totalBoughtMonthsMembership": 36.0,
+    "spentDays": 0,
+    "notSpentDays": 0
+  },
+  {
+    "username": "u/aminok",
+    "address": "0xbEA18A39a1cEe253705eB5e966fe23F26dD109eF",
+    "activeMembership": true,
+    "membershipRank": 389,
+    "totalDonutsBurned": 84200.0,
+    "totalBoughtMonthsMembership": 421.0,
+    "spentDays": 1409,
+    "notSpentDays": 10271
+  },
+  {
+    "username": "u/kohrts",
+    "address": "0x4EF0eae978Cc851aD05f90D34cE58D51D27EB096",
+    "activeMembership": true,
+    "membershipRank": 8,
+    "totalDonutsBurned": 5200.0,
+    "totalBoughtMonthsMembership": 26.0,
+    "spentDays": 229,
+    "notSpentDays": 14
+  },
+  {
+    "username": "u/LivingFondant1419",
+    "address": "0x3630De8985d2B2Ff2D6f0f5876a368ba2C1A9b3a",
+    "activeMembership": true,
+    "membershipRank": 7,
+    "totalDonutsBurned": 1400.0,
+    "totalBoughtMonthsMembership": 7.0,
+    "spentDays": 54,
+    "notSpentDays": 158
+  },
+  {
+    "username": "u/Basoosh",
+    "address": "0x80148c5d2b61182107f43FAE67f8F2ec4b5dbcDE",
+    "activeMembership": true,
+    "membershipRank": 365,
+    "totalDonutsBurned": 81800.0,
+    "totalBoughtMonthsMembership": 409.0,
+    "spentDays": 1387,
+    "notSpentDays": 9563
+  },
+  {
+    "username": "u/nootropicat",
+    "address": "0x52727E01d666BeF35cEF630E14E096CA873d2783",
+    "activeMembership": true,
+    "membershipRank": 3850,
+    "totalDonutsBurned": 759600.0,
+    "totalBoughtMonthsMembership": 3798.0,
+    "spentDays": 1419,
+    "notSpentDays": 114103
+  },
+  {
+    "username": "u/rustedpopcorn",
+    "address": "0xd2D117e6dbbfdD74D6b865ff859a4611bD29F3Ed",
+    "activeMembership": true,
+    "membershipRank": 13,
+    "totalDonutsBurned": 9800.0,
+    "totalBoughtMonthsMembership": 49.0,
+    "spentDays": 82,
+    "notSpentDays": 313
+  },
+  {
+    "username": "u/rootpl",
+    "address": "0xEdc0321b407b165CF926BE3E77ecB6C791f731bA",
+    "activeMembership": true,
+    "membershipRank": 5,
+    "totalDonutsBurned": 1200.0,
+    "totalBoughtMonthsMembership": 6.0,
+    "spentDays": 32,
+    "notSpentDays": 120
+  },
+  {
+    "username": "u/ToshiSat",
+    "address": "0x378Ea7e7E7Db2501573a22aecc4A2269C89642C1",
+    "activeMembership": true,
+    "membershipRank": 5,
+    "totalDonutsBurned": 1000.0,
+    "totalBoughtMonthsMembership": 5.0,
+    "spentDays": 73,
+    "notSpentDays": 79
+  },
+  {
+    "username": "u/ReitHodlr",
+    "address": "0x1b036f17F5DcB000005e14773f8636b4dde76e39",
+    "activeMembership": true,
+    "membershipRank": 12,
+    "totalDonutsBurned": 2400.0,
+    "totalBoughtMonthsMembership": 12.0,
+    "spentDays": 73,
+    "notSpentDays": 292
+  },
+  {
+    "username": "u/deckartcain",
+    "address": "0xA4d537811A3DB27d92502E8FC62CbeB2DF7D9BAF",
+    "activeMembership": false,
+    "membershipRank": 0,
+    "totalDonutsBurned": 200.0,
+    "totalBoughtMonthsMembership": 1.0,
+    "spentDays": 0,
+    "notSpentDays": 0
+  },
+  {
+    "username": "u/Guldrion",
+    "address": "0x12859b4528b8B9EFaDc5530e30721a6087FBB4Fd",
+    "activeMembership": false,
+    "membershipRank": 0,
+    "totalDonutsBurned": 200.0,
+    "totalBoughtMonthsMembership": 1.0,
+    "spentDays": 0,
+    "notSpentDays": 0
+  },
+  {
+    "username": "u/bvandepol",
+    "address": "0x52a7f4e8904F70Ea831ED31511b35AadCB36b1d9",
+    "activeMembership": true,
+    "membershipRank": 5,
+    "totalDonutsBurned": 1000.0,
+    "totalBoughtMonthsMembership": 5.0,
+    "spentDays": 65,
+    "notSpentDays": 87
+  },
+  {
+    "username": "u/Fantastic-Offer-9129",
+    "address": "0x76cA18FB5A1c48BF38e47F2D8239f038bD884813",
+    "activeMembership": true,
+    "membershipRank": 377,
+    "totalDonutsBurned": 74600.0,
+    "totalBoughtMonthsMembership": 373.0,
+    "spentDays": 224,
+    "notSpentDays": 11091
+  },
+  {
+    "username": "u/CoolCoolPapaOldSkool",
+    "address": "0x3e94cE15A42a8E8a0AbE405a7B0dc4F00f2862Db",
+    "activeMembership": true,
+    "membershipRank": 6,
+    "totalDonutsBurned": 1200.0,
+    "totalBoughtMonthsMembership": 6.0,
+    "spentDays": 52,
+    "notSpentDays": 130
+  },
+  {
+    "username": "u/SoulUrgeDestiny",
+    "address": "0xA503c0E06e5cCf0B599771339158aDF58FAe8728",
+    "activeMembership": true,
+    "membershipRank": 11,
+    "totalDonutsBurned": 2400.0,
+    "totalBoughtMonthsMembership": 12.0,
+    "spentDays": 72,
+    "notSpentDays": 262
+  },
+  {
+    "username": "u/goldyluckinblokchain",
+    "address": "0xbfE08A5301906f5B5C1DB7E61Ae5A9420afcAF4A",
+    "activeMembership": true,
+    "membershipRank": 1,
+    "totalDonutsBurned": 200.0,
+    "totalBoughtMonthsMembership": 1.0,
+    "spentDays": 28,
+    "notSpentDays": 2
+  },
+  {
+    "username": "u/Lordofthewhales",
+    "address": "0x3607C4Ae351264892154bdab2d65622B8f5420fE",
+    "activeMembership": true,
+    "membershipRank": 2,
+    "totalDonutsBurned": 400.0,
+    "totalBoughtMonthsMembership": 2.0,
+    "spentDays": 22,
+    "notSpentDays": 38
+  },
+  {
+    "username": "u/Odlavso",
+    "address": "0x3cAa5fa6358Ae6972bc92F5A96444ED4AabF4737",
+    "activeMembership": true,
+    "membershipRank": 4,
+    "totalDonutsBurned": 800.0,
+    "totalBoughtMonthsMembership": 4.0,
+    "spentDays": 71,
+    "notSpentDays": 50
+  },
+  {
+    "username": "u/Independent_Ear9101",
+    "address": "0xfc1Ce1414A298eE5D4Ec6677021eE952746Fa92d",
+    "activeMembership": true,
+    "membershipRank": 6,
+    "totalDonutsBurned": 1200.0,
+    "totalBoughtMonthsMembership": 6.0,
+    "spentDays": 57,
+    "notSpentDays": 125
+  },
+  {
+    "username": "u/Adorable_Doubt4420",
+    "address": "0x1bf8F71F41D48Ebf84058832dC934920A0B2f256",
+    "activeMembership": false,
+    "membershipRank": 0,
+    "totalDonutsBurned": 400.0,
+    "totalBoughtMonthsMembership": 2.0,
+    "spentDays": 0,
+    "notSpentDays": 0
+  },
+  {
+    "username": "u/Sunryzen",
+    "address": "0x8424782665f9D16FbD8A30F0cDE6109bdAB496c1",
+    "activeMembership": false,
+    "membershipRank": 0,
+    "totalDonutsBurned": 200.0,
+    "totalBoughtMonthsMembership": 1.0,
+    "spentDays": 0,
+    "notSpentDays": 0
+  },
+  {
+    "username": "u/Gh0sta",
+    "address": "0xfd1e50BcDA3A1f9eBe6E50Bdf80cbd2c3D6a1fB0",
+    "activeMembership": false,
+    "membershipRank": 0,
+    "totalDonutsBurned": 4400.0,
+    "totalBoughtMonthsMembership": 22.0,
+    "spentDays": 0,
+    "notSpentDays": 0
+  },
+  {
+    "username": "u/Fritz1818",
+    "address": "0x713376C3BB65E786d8aA0FcFfFfB39472F23e6A6",
+    "activeMembership": true,
+    "membershipRank": 18,
+    "totalDonutsBurned": 4800.0,
+    "totalBoughtMonthsMembership": 24.0,
+    "spentDays": 65,
+    "notSpentDays": 482
+  },
+  {
+    "username": "u/Lokiee0077",
+    "address": "0x4df57f4A62f05dDB2eC4e6749677AA8e77740a2E",
+    "activeMembership": true,
+    "membershipRank": 4,
+    "totalDonutsBurned": 800.0,
+    "totalBoughtMonthsMembership": 4.0,
+    "spentDays": 29,
+    "notSpentDays": 92
+  },
+  {
+    "username": "u/scientifichistorian",
+    "address": "0xb17DcDD2bcd04d9B19B768d87600a5B5b45db82d",
+    "activeMembership": true,
+    "membershipRank": 12,
+    "totalDonutsBurned": 2400.0,
+    "totalBoughtMonthsMembership": 12.0,
+    "spentDays": 71,
+    "notSpentDays": 294
+  },
+  {
+    "username": "u/Jake123194",
+    "address": "0x48AFb64D55c79A2E711c14a2Bf903A7C3842baCC",
+    "activeMembership": false,
+    "membershipRank": 0,
+    "totalDonutsBurned": 7200.0,
+    "totalBoughtMonthsMembership": 36.0,
+    "spentDays": 0,
+    "notSpentDays": 0
+  },
+  {
+    "username": "u/im_just_kidding_bruh",
+    "address": "0x38656ED26e0cd8516DD2d541ac75b9b86C070233",
+    "activeMembership": true,
+    "membershipRank": 1,
+    "totalDonutsBurned": 200.0,
+    "totalBoughtMonthsMembership": 1.0,
+    "spentDays": 22,
+    "notSpentDays": 8
+  },
+  {
+    "username": "u/420weedscopes",
+    "address": "0x4d22f2d09f9E49B014E3a1AFC4f903a25a8c17FD",
+    "activeMembership": true,
+    "membershipRank": 24,
+    "totalDonutsBurned": 6200.0,
+    "totalBoughtMonthsMembership": 31.0,
+    "spentDays": 534,
+    "notSpentDays": 196
+  },
+  {
+    "username": "u/Sharp-Subject-047",
+    "address": "0x5b3eA1DEFFd61ff316D14770601B03eD070962a8",
+    "activeMembership": true,
+    "membershipRank": 5,
+    "totalDonutsBurned": 1000.0,
+    "totalBoughtMonthsMembership": 5.0,
+    "spentDays": 47,
+    "notSpentDays": 105
+  },
+  {
+    "username": "u/pc1e0",
+    "address": "0x3741703f6DB21aC013D009fafE64c85b717b1b37",
+    "activeMembership": false,
+    "membershipRank": 0,
+    "totalDonutsBurned": 1200.0,
+    "totalBoughtMonthsMembership": 6.0,
+    "spentDays": 0,
+    "notSpentDays": 0
+  },
+  {
+    "username": "u/carlslarson",
+    "address": "0x95D9bED31423eb7d5B68511E0352Eae39a3CDD20",
+    "activeMembership": true,
+    "membershipRank": 18578,
+    "totalDonutsBurned": 3691199.9999999995,
+    "totalBoughtMonthsMembership": 18455.999999999996,
+    "spentDays": 1419,
+    "notSpentDays": 555936
+  },
+  {
+    "username": "u/rustedpopcorn",
+    "address": "0xd2D117e6dbbfdD74D6b865ff859a4611bD29F3Ed",
+    "activeMembership": true,
+    "membershipRank": 13,
+    "totalDonutsBurned": 9800.0,
+    "totalBoughtMonthsMembership": 49.0,
+    "spentDays": 82,
+    "notSpentDays": 313
+  },
+  {
+    "username": "u/AdZealousideal3461",
+    "address": "0x5Bb626b3ad10ABb1E9055292126fe7a6AC6e3ea3",
+    "activeMembership": true,
+    "membershipRank": 3,
+    "totalDonutsBurned": 600.0,
+    "totalBoughtMonthsMembership": 3.0,
+    "spentDays": 85,
+    "notSpentDays": 6
+  },
+  {
+    "username": "u/Atyzze",
+    "address": "0x92ddbdfCEE1301F827c6228B65A1B46b0E871fc2",
+    "activeMembership": true,
+    "membershipRank": 35,
+    "totalDonutsBurned": 7000.0,
+    "totalBoughtMonthsMembership": 35.0,
+    "spentDays": 28,
+    "notSpentDays": 1036
+  },
+  {
+    "username": "u/doctorwho_cares",
+    "address": "0xB96F63E3a7C380214704893f8f38f91caF413321",
+    "activeMembership": true,
+    "membershipRank": 1,
+    "totalDonutsBurned": 200.0,
+    "totalBoughtMonthsMembership": 1.0,
+    "spentDays": 25,
+    "notSpentDays": 5
+  },
+  {
+    "username": "u/Eth_Man",
+    "address": "0x0e066ED845a6853557A0d580b3BA998b0283ACA8",
+    "activeMembership": true,
+    "membershipRank": 527,
+    "totalDonutsBurned": 104000.0,
+    "totalBoughtMonthsMembership": 520.0,
+    "spentDays": 1418,
+    "notSpentDays": 14398
+  },
+  {
+    "username": "u/Basoosh",
+    "address": "0x80148c5d2b61182107f43FAE67f8F2ec4b5dbcDE",
+    "activeMembership": true,
+    "membershipRank": 365,
+    "totalDonutsBurned": 81800.0,
+    "totalBoughtMonthsMembership": 409.0,
+    "spentDays": 1387,
+    "notSpentDays": 9563
+  },
+  {
+    "username": "u/Samir2298",
+    "address": "0x54C334fa1A5BC243874eB6f7573E2e6e4e305Df0",
+    "activeMembership": true,
+    "membershipRank": 5,
+    "totalDonutsBurned": 1000.0,
+    "totalBoughtMonthsMembership": 5.0,
+    "spentDays": 82,
+    "notSpentDays": 70
+  },
+  {
+    "username": "u/dead-spiral",
+    "address": "0x7687fbc6D50EA1620105A0e271B8Cb6239905121",
+    "activeMembership": false,
+    "membershipRank": 0,
+    "totalDonutsBurned": 200.0,
+    "totalBoughtMonthsMembership": 1.0,
+    "spentDays": 0,
+    "notSpentDays": 0
+  },
+  {
+    "username": "u/suikonami",
+    "address": "0x002fb0c5d1209f8f5616BA3d211Be36c4D237d55",
+    "activeMembership": true,
+    "membershipRank": 12,
+    "totalDonutsBurned": 2400.0,
+    "totalBoughtMonthsMembership": 12.0,
+    "spentDays": 82,
+    "notSpentDays": 283
+  },
+  {
+    "username": "u/dont_hate_scienceguy",
+    "address": "0x453646b0AD86697F3bfbE61F086F10FBf9954c72",
+    "activeMembership": true,
+    "membershipRank": 73,
+    "totalDonutsBurned": 19400.0,
+    "totalBoughtMonthsMembership": 97.0,
+    "spentDays": 1025,
+    "notSpentDays": 1165
+  },
+  {
+    "username": "u/evil_betty_",
+    "address": "0x1A86440fD49a1e85C46c66ba64C46b98b0e3b6Ab",
+    "activeMembership": true,
+    "membershipRank": 24,
+    "totalDonutsBurned": 9600.0,
+    "totalBoughtMonthsMembership": 48.0,
+    "spentDays": 275,
+    "notSpentDays": 455
+  },
+  {
+    "username": "u/MemeyCurmudgeon",
+    "address": "0x7f25555A0C85B53Cb8934960D0e4ae2DF65CeCaB",
+    "activeMembership": true,
+    "membershipRank": 152,
+    "totalDonutsBurned": 35000.0,
+    "totalBoughtMonthsMembership": 175.0,
+    "spentDays": 1388,
+    "notSpentDays": 3174
+  },
+  {
+    "username": "u/TokenMining",
+    "address": "0x274F7DC36eE5705ea3244EBCeba8b411751E6d48",
+    "activeMembership": true,
+    "membershipRank": 25,
+    "totalDonutsBurned": 5000.0,
+    "totalBoughtMonthsMembership": 25.0,
+    "spentDays": 50,
+    "notSpentDays": 710
+  },
+  {
+    "username": "u/kohrts",
+    "address": "0x4EF0eae978Cc851aD05f90D34cE58D51D27EB096",
+    "activeMembership": true,
+    "membershipRank": 8,
+    "totalDonutsBurned": 5200.0,
+    "totalBoughtMonthsMembership": 26.0,
+    "spentDays": 229,
+    "notSpentDays": 14
+  },
+  {
+    "username": "u/Crypto-4-Freedom",
+    "address": "0xE1b24E1778FE30648d7998f3b9e77F42C6F2CE03",
+    "activeMembership": true,
+    "membershipRank": 2,
+    "totalDonutsBurned": 400.0,
+    "totalBoughtMonthsMembership": 2.0,
+    "spentDays": 31,
+    "notSpentDays": 29
+  },
+  {
+    "username": "u/RayG1991",
+    "address": "0x796F60CC634E9072FE0D702b05402Da5419Aaa0E",
+    "activeMembership": true,
+    "membershipRank": 16,
+    "totalDonutsBurned": 7200.0,
+    "totalBoughtMonthsMembership": 36.0,
+    "spentDays": 380,
+    "notSpentDays": 106
+  },
+  {
+    "username": "u/drauthlin",
+    "address": "0x58EF897418fC1818CAf0376aA41bc705A06fF41D",
+    "activeMembership": false,
+    "membershipRank": 0,
+    "totalDonutsBurned": 1200.0,
+    "totalBoughtMonthsMembership": 6.0,
+    "spentDays": 0,
+    "notSpentDays": 0
+  },
+  {
+    "username": "u/towjamb",
+    "address": "0x6AA08E1E39958055836F31906C6ff8c072e8C0F3",
+    "activeMembership": true,
+    "membershipRank": 152,
+    "totalDonutsBurned": 30000.0,
+    "totalBoughtMonthsMembership": 150.0,
+    "spentDays": 1419,
+    "notSpentDays": 3143
   }
 ]

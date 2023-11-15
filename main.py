@@ -8,7 +8,7 @@ from datetime import datetime, timedelta
 import time
 from dotenv import load_dotenv
 
-CSV_FILE_PATH = "in/test.csv"
+CSV_FILE_PATH = "in/round_128.csv"
 BURN_ADDRESS = "0x0000000000000000000000000000000000000000"
 DONUT_CONTRACT = "0xC0F9bD5Fa5698B6505F643900FFA515Ea5dF54A9"
 
@@ -161,10 +161,10 @@ def main(input_data):
 
 
 load_dotenv()
-main(
-    {
-        "isRedditSunset": False,
-    }
-)
+# main(
+#     {
+#         "isRedditSunset": False,
+#     }
+# )
 
-# main({"isRedditSunset": True, "fileName": "special_memberships_since_reddit_sunset"})
+main({"isRedditSunset": True, "fileName": "special_memberships_since_reddit_sunset"})
