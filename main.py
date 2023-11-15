@@ -167,32 +167,36 @@ if __name__ == "__main__":
 
     try:
         input_data = json.loads(args.input_variable)
-        main(input_data)
+        main(
+            {
+                "isRedditSunset": False,
+            }
+        )
 
     except json.JSONDecodeError as e:
         print(f"Error decoding JSON: {e}")
 
 
-# Function to be executed periodically
-def periodic_task():
-    print("Executing the periodic task")
-    main(
-        {
-            "isRedditSunset": False,
-        }
-    )
+# # Function to be executed periodically
+# def periodic_task():
+#     print("Executing the periodic task")
+#     main(
+#         {
+#             "isRedditSunset": False,
+#         }
+#     )
 
 
-# Create a scheduler
-scheduler = sched.scheduler(time.time, time.sleep)
+# # Create a scheduler
+# scheduler = sched.scheduler(time.time, time.sleep)
 
-# Schedule the task to run every 1 minute
-interval = 600  # in seconds
-scheduler.enter(interval, 1, periodic_task, ())
+# # Schedule the task to run every 1 minute
+# interval = 600  # in seconds
+# scheduler.enter(interval, 1, periodic_task, ())
 
-# Run the scheduler
-try:
-    while True:
-        scheduler.run()
-except KeyboardInterrupt:
-    print("\nScript terminated by the user.")
+# # Run the scheduler
+# try:
+#     while True:
+#         scheduler.run()
+# except KeyboardInterrupt:
+#     print("\nScript terminated by the user.")
