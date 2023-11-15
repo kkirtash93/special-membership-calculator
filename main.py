@@ -161,10 +161,10 @@ def main(input_data):
 
 
 load_dotenv()
-# main(
-#     {
-#         "isRedditSunset": False,
-#     }
-# )
+main(
+    {
+        "isRedditSunset": False,
+    }
+)
 
-main({"isRedditSunset": True, "fileName": "special_memberships_since_reddit_sunset"})
+# main({"isRedditSunset": True, "fileName": "special_memberships_since_reddit_sunset"})
