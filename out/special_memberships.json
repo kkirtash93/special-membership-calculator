@@ -346,8 +346,8 @@
     "membershipRank": 6,
     "totalDonutsBurned": 1200.0,
     "totalBoughtMonthsMembership": 6.0,
-    "spentDays": 59,
-    "notSpentDays": 123
+    "spentDays": 60,
+    "notSpentDays": 122
   },
   {
     "username": "u/SoulUrgeDestiny",
@@ -676,8 +676,8 @@
     "membershipRank": 16,
     "totalDonutsBurned": 7200.0,
     "totalBoughtMonthsMembership": 36.0,
-    "spentDays": 387,
-    "notSpentDays": 99
+    "spentDays": 388,
+    "notSpentDays": 98
   },
   {
     "username": "u/drauthlin",
