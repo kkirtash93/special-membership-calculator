@@ -5,7 +5,6 @@ import json
 import os
 import argparse
 from datetime import datetime, timedelta
-import sched
 import time
 from dotenv import load_dotenv
 
