@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyo
+*.pyc
+
+# Virtual Environments
+venv/
+env/
+bin/
+lib/
+include/
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Python cache
+__pycache__/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Miscellaneous
+*.log
+.DS_Store
+
+.env
