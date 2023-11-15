@@ -103,7 +103,7 @@ def create_and_save_data(sp_memb_data, input_data):
     folder_path = "out/"
     os.makedirs(folder_path, exist_ok=True)
 
-    now_dt = datetime.utcnow().strftime("%Y-%m-%d_%H-%M-%S")
+    now_dt = datetime.utcnow().strftime("%Y-%m-%d")
 
     # Create a file name with the current date
     file_name = f"{file_name}_{now_dt}.json"
