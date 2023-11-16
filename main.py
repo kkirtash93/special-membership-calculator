@@ -32,12 +32,12 @@ def main(input_data):
     api_calls = 0
 
     with open(SPECIAL_MEMBERSHIP_FILE, "r") as file:
-        user_json = json.load(file)
+        reddit_users = json.load(file)
 
-        for user in user_json:
-            if user["activeMembership"]:
-                name = user["username"]
-                blockchain_address = user["address"]
+        for reddit_user in reddit_users:
+            if reddit_user["activeMembership"]:
+                name = reddit_user["username"]
+                blockchain_address = reddit_user["address"]
 
                 api_calls = utils.freeze_process(api_calls)
 
@@ -50,13 +50,12 @@ def main(input_data):
 
                 if donut_transactions:
                     reddit_user = utils.calculate_special_membership(
-                        name,
-                        blockchain_address,
+                        reddit_user,
                         donut_transactions,
                         utils.get_limit_timestamp(input_data),
                     )
-                    if reddit_user:
-                        sp_memb_data.append(reddit_user)
+
+            sp_memb_data.append(reddit_user)
 
     if len(sp_memb_data) > 0:
         utils.save_data(sp_memb_data, input_data)

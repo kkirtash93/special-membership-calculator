@@ -20,8 +20,7 @@ API_LIMIT = 5
 
 
 def calculate_special_membership(
-    name,
-    blockchain_address,
+    reddit_user,
     donut_transactions,
     limit_timestamp,
 ):
@@ -49,14 +48,14 @@ def calculate_special_membership(
                 ):
                     active_membership_timestamp = transaction["timestamp"]
 
-    reddit_user = {
-        "username": name,
-        "address": blockchain_address,
-        "activeMembership": has_active_membership,
-        "membershipRank": int(total_special_memberships_days / 30),
-        "totalDonutsBurned": total_donuts_burned,
-        "totalBoughtMonthsMembership": total_donuts_burned / COST_PER_MONTH,
-    }
+    reddit_user.update(
+        {
+            "activeMembership": has_active_membership,
+            "membershipRank": int(total_special_memberships_days / 30),
+            "totalDonutsBurned": total_donuts_burned,
+            "totalBoughtMonthsMembership": total_donuts_burned / COST_PER_MONTH,
+        }
+    )
 
     if has_bought_membership and has_active_membership:
         spent_days = (
