@@ -636,8 +636,8 @@
     "membershipRank": 3,
     "totalDonutsBurned": 600.0,
     "totalBoughtMonthsMembership": 3.0,
-    "spentDays": 64,
-    "notSpentDays": 27
+    "spentDays": 65,
+    "notSpentDays": 26
   },
   {
     "username": "ReitHodlr",
@@ -696,8 +696,8 @@
     "membershipRank": 5,
     "totalDonutsBurned": 1000.0,
     "totalBoughtMonthsMembership": 5.0,
-    "spentDays": 55,
-    "notSpentDays": 97
+    "spentDays": 56,
+    "notSpentDays": 96
   },
   {
     "username": "pythonskynet",
