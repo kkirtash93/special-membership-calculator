@@ -382,12 +382,12 @@
   {
     "username": "kohrts",
     "address": "0x4EF0eae978Cc851aD05f90D34cE58D51D27EB096",
-    "activeMembership": true,
+    "activeMembership": false,
     "membershipRank": 26,
     "totalDonutsBurned": 5200.0,
     "totalBoughtMonthsMembership": 26.0,
-    "spentDays": 243,
-    "notSpentDays": 547
+    "spentDays": 790.8333333333334,
+    "notSpentDays": 0
   },
   {
     "username": "S1zo4",
