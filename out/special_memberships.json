@@ -786,8 +786,8 @@
     "membershipRank": 5,
     "totalDonutsBurned": 1000.0,
     "totalBoughtMonthsMembership": 5.0,
-    "spentDays": 91,
-    "notSpentDays": 61
+    "spentDays": 92,
+    "notSpentDays": 60
   },
   {
     "username": "CoolCoolPapaOldSkool",
@@ -906,8 +906,8 @@
     "membershipRank": 2,
     "totalDonutsBurned": 400.0,
     "totalBoughtMonthsMembership": 2.0,
-    "spentDays": 49,
-    "notSpentDays": 11
+    "spentDays": 50,
+    "notSpentDays": 10
   },
   {
     "username": "mattg1981",
