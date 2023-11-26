@@ -466,8 +466,8 @@
     "membershipRank": 5,
     "totalDonutsBurned": 1000.0,
     "totalBoughtMonthsMembership": 5.0,
-    "spentDays": 100,
-    "notSpentDays": 52
+    "spentDays": 101,
+    "notSpentDays": 51
   },
   {
     "username": "AWholeCoin",
