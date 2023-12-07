@@ -902,11 +902,11 @@
   {
     "username": "Crypto-4-Freedom",
     "address": "0xE1b24E1778FE30648d7998f3b9e77F42C6F2CE03",
-    "activeMembership": true,
+    "activeMembership": false,
     "membershipRank": 2,
     "totalDonutsBurned": 400.0,
     "totalBoughtMonthsMembership": 2.0,
-    "spentDays": 60,
+    "spentDays": 60.833333333333336,
     "notSpentDays": 0
   },
   {
