@@ -982,12 +982,12 @@
   {
     "username": "Independent_Ear9101",
     "address": "0xfc1Ce1414A298eE5D4Ec6677021eE952746Fa92d",
-    "activeMembership": true,
+    "activeMembership": false,
     "membershipRank": 6,
     "totalDonutsBurned": 1200.0,
     "totalBoughtMonthsMembership": 6.0,
-    "spentDays": 91,
-    "notSpentDays": 91
+    "spentDays": 182.5,
+    "notSpentDays": 0
   },
   {
     "username": "im_just_kidding_bruh",
