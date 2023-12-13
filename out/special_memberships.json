@@ -912,11 +912,11 @@
   {
     "username": "mattg1981",
     "address": "0xd762e68a2d30ab4d836683c421121AbB5b3e1DcC",
-    "activeMembership": true,
+    "activeMembership": false,
     "membershipRank": 2,
     "totalDonutsBurned": 400.0,
     "totalBoughtMonthsMembership": 2.0,
-    "spentDays": 60,
+    "spentDays": 60.833333333333336,
     "notSpentDays": 0
   },
   {
