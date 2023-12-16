@@ -972,11 +972,11 @@
   {
     "username": "Lordofthewhales",
     "address": "0x3607C4Ae351264892154bdab2d65622B8f5420fE",
-    "activeMembership": true,
+    "activeMembership": false,
     "membershipRank": 2,
     "totalDonutsBurned": 400.0,
     "totalBoughtMonthsMembership": 2.0,
-    "spentDays": 60,
+    "spentDays": 60.833333333333336,
     "notSpentDays": 0
   },
   {
