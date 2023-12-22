@@ -926,8 +926,8 @@
     "membershipRank": 4,
     "totalDonutsBurned": 800.0,
     "totalBoughtMonthsMembership": 4.0,
-    "spentDays": 100,
-    "notSpentDays": 21
+    "spentDays": 101,
+    "notSpentDays": 20
   },
   {
     "username": "dead-spiral",
