@@ -586,8 +586,8 @@
     "membershipRank": 24,
     "totalDonutsBurned": 4800.0,
     "totalBoughtMonthsMembership": 24.0,
-    "spentDays": 504,
-    "notSpentDays": 226
+    "spentDays": 505,
+    "notSpentDays": 225
   },
   {
     "username": "LivingFondant1419",
@@ -812,12 +812,12 @@
   {
     "username": "Carretje",
     "address": "0x549ab2CfaA7fb1d1B8AF6E0654efb24CC65c76E6",
-    "activeMembership": true,
+    "activeMembership": false,
     "membershipRank": 4,
     "totalDonutsBurned": 800.0,
     "totalBoughtMonthsMembership": 4.0,
-    "spentDays": 91,
-    "notSpentDays": 30
+    "spentDays": 121.66666666666667,
+    "notSpentDays": 0
   },
   {
     "username": "Adorable_Doubt4420",
