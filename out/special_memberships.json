@@ -962,11 +962,11 @@
   {
     "username": "eonesimoszsss",
     "address": "0xAf85D799DeA4b959c8c877bFdD2f1c7ccf83549F",
-    "activeMembership": true,
+    "activeMembership": false,
     "membershipRank": 3,
     "totalDonutsBurned": 600.0,
     "totalBoughtMonthsMembership": 3.0,
-    "spentDays": 91,
+    "spentDays": 91.25,
     "notSpentDays": 0
   },
   {
