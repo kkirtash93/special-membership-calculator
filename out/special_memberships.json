@@ -922,11 +922,11 @@
   {
     "username": "InsaneMcFries",
     "address": "0xcBedBe4f7b04Def3b4ddb581c266a0c45023D99f",
-    "activeMembership": true,
+    "activeMembership": false,
     "membershipRank": 4,
     "totalDonutsBurned": 800.0,
     "totalBoughtMonthsMembership": 4.0,
-    "spentDays": 121,
+    "spentDays": 121.66666666666667,
     "notSpentDays": 0
   },
   {
