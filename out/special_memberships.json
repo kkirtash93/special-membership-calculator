@@ -112,12 +112,12 @@
   {
     "username": "dont_hate_scienceguy",
     "address": "0x453646b0AD86697F3bfbE61F086F10FBf9954c72",
-    "activeMembership": true,
+    "activeMembership": false,
     "membershipRank": 98,
     "totalDonutsBurned": 19400.0,
     "totalBoughtMonthsMembership": 97.0,
-    "spentDays": 1094,
-    "notSpentDays": 1856
+    "spentDays": 2950.416666666667,
+    "notSpentDays": 0
   },
   {
     "username": "SpacePirateM",
