@@ -772,11 +772,11 @@
   {
     "username": "Buzzalu",
     "address": "0xb89CB46A5Cf811b99A3608C8b9e63aD0DE990Fe0",
-    "activeMembership": true,
+    "activeMembership": false,
     "membershipRank": 5,
     "totalDonutsBurned": 1000.0,
     "totalBoughtMonthsMembership": 5.0,
-    "spentDays": 152,
+    "spentDays": 152.08333333333334,
     "notSpentDays": 0
   },
   {
