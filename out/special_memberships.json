@@ -782,11 +782,11 @@
   {
     "username": "ToshiSat",
     "address": "0x378Ea7e7E7Db2501573a22aecc4A2269C89642C1",
-    "activeMembership": true,
+    "activeMembership": false,
     "membershipRank": 5,
     "totalDonutsBurned": 1000.0,
     "totalBoughtMonthsMembership": 5.0,
-    "spentDays": 152,
+    "spentDays": 152.08333333333334,
     "notSpentDays": 0
   },
   {
