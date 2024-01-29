@@ -42,12 +42,12 @@
   {
     "username": "towjamb",
     "address": "0x6AA08E1E39958055836F31906C6ff8c072e8C0F3",
-    "activeMembership": true,
-    "membershipRank": 152,
-    "totalDonutsBurned": 30000.0,
-    "totalBoughtMonthsMembership": 150.0,
-    "spentDays": 1502,
-    "notSpentDays": 3060
+    "activeMembership": false,
+    "membershipRank": 0,
+    "totalDonutsBurned": 0,
+    "totalBoughtMonthsMembership": 0.0,
+    "spentDays": 0,
+    "notSpentDays": 0
   },
   {
     "username": "nootropicat",
@@ -86,8 +86,8 @@
     "membershipRank": 608,
     "totalDonutsBurned": 120000.0,
     "totalBoughtMonthsMembership": 600.0,
-    "spentDays": 1500,
-    "notSpentDays": 16750
+    "spentDays": 1501,
+    "notSpentDays": 16749
   },
   {
     "username": "peppers_",
