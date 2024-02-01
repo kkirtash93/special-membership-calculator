@@ -426,8 +426,8 @@
     "membershipRank": 48,
     "totalDonutsBurned": 9600.0,
     "totalBoughtMonthsMembership": 48.0,
-    "spentDays": 360,
-    "notSpentDays": 1100
+    "spentDays": 361,
+    "notSpentDays": 1099
   },
   {
     "username": "SolorMining",
@@ -606,8 +606,8 @@
     "membershipRank": 5,
     "totalDonutsBurned": 1000.0,
     "totalBoughtMonthsMembership": 5.0,
-    "spentDays": 135,
-    "notSpentDays": 17
+    "spentDays": 136,
+    "notSpentDays": 16
   },
   {
     "username": "kirtash93",
