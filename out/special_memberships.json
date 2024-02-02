@@ -852,11 +852,11 @@
   {
     "username": "bvandepol",
     "address": "0x52a7f4e8904F70Ea831ED31511b35AadCB36b1d9",
-    "activeMembership": true,
+    "activeMembership": false,
     "membershipRank": 5,
     "totalDonutsBurned": 1000.0,
     "totalBoughtMonthsMembership": 5.0,
-    "spentDays": 152,
+    "spentDays": 152.08333333333334,
     "notSpentDays": 0
   },
   {
