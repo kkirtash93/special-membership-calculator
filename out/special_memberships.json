@@ -662,11 +662,11 @@
   {
     "username": "Lokiee0077",
     "address": "0x4df57f4A62f05dDB2eC4e6749677AA8e77740a2E",
-    "activeMembership": true,
+    "activeMembership": false,
     "membershipRank": 4,
     "totalDonutsBurned": 800.0,
     "totalBoughtMonthsMembership": 4.0,
-    "spentDays": 121,
+    "spentDays": 121.66666666666667,
     "notSpentDays": 0
   },
   {
