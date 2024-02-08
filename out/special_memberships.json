@@ -122,12 +122,12 @@
   {
     "username": "SpacePirateM",
     "address": "0x6FD35d2221F673DeEE6aa332E643FB63671da072",
-    "activeMembership": true,
-    "membershipRank": 304,
-    "totalDonutsBurned": 60000.0,
-    "totalBoughtMonthsMembership": 300.0,
-    "spentDays": 1500,
-    "notSpentDays": 7625
+    "activeMembership": false,
+    "membershipRank": 0,
+    "totalDonutsBurned": 0,
+    "totalBoughtMonthsMembership": 0.0,
+    "spentDays": 0,
+    "notSpentDays": 0
   },
   {
     "username": "thepaypay",
