@@ -586,8 +586,8 @@
     "membershipRank": 24,
     "totalDonutsBurned": 4800.0,
     "totalBoughtMonthsMembership": 24.0,
-    "spentDays": 559,
-    "notSpentDays": 171
+    "spentDays": 560,
+    "notSpentDays": 170
   },
   {
     "username": "LivingFondant1419",
@@ -602,11 +602,11 @@
   {
     "username": "SuperNoise5209",
     "address": "0x18722119EA2D21ED8b5E13E796BD92A7345C1802",
-    "activeMembership": true,
+    "activeMembership": false,
     "membershipRank": 5,
     "totalDonutsBurned": 1000.0,
     "totalBoughtMonthsMembership": 5.0,
-    "spentDays": 152,
+    "spentDays": 152.08333333333334,
     "notSpentDays": 0
   },
   {
