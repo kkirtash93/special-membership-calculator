@@ -692,11 +692,11 @@
   {
     "username": "Sharp-Subject-047",
     "address": "0x5b3eA1DEFFd61ff316D14770601B03eD070962a8",
-    "activeMembership": true,
+    "activeMembership": false,
     "membershipRank": 5,
     "totalDonutsBurned": 1000.0,
     "totalBoughtMonthsMembership": 5.0,
-    "spentDays": 152,
+    "spentDays": 152.08333333333334,
     "notSpentDays": 0
   },
   {
