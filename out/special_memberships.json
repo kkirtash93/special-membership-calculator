@@ -562,12 +562,12 @@
   {
     "username": "RayG1991",
     "address": "0x796F60CC634E9072FE0D702b05402Da5419Aaa0E",
-    "activeMembership": true,
+    "activeMembership": false,
     "membershipRank": 36,
     "totalDonutsBurned": 7200.0,
     "totalBoughtMonthsMembership": 36.0,
-    "spentDays": 486,
-    "notSpentDays": 609
+    "spentDays": 1095.0,
+    "notSpentDays": 0
   },
   {
     "username": "Jerry200px",
