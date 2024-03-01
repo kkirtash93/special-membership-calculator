@@ -342,12 +342,12 @@
   {
     "username": "Freimusic",
     "address": "0x828f2fceF4674Fa29a4611316760E503465F59e1",
-    "activeMembership": true,
-    "membershipRank": 36,
-    "totalDonutsBurned": 7200.0,
-    "totalBoughtMonthsMembership": 36.0,
-    "spentDays": 1081,
-    "notSpentDays": 14
+    "activeMembership": false,
+    "membershipRank": 0,
+    "totalDonutsBurned": 0,
+    "totalBoughtMonthsMembership": 0.0,
+    "spentDays": 0,
+    "notSpentDays": 0
   },
   {
     "username": "FrankyThreeFingers",
