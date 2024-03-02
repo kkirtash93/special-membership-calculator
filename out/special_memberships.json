@@ -23,11 +23,11 @@
     "username": "nbr1bonehead",
     "address": "0x8Cbe06fAD615aC28659aa282Fe73Bed9f45b0cC3",
     "activeMembership": true,
-    "membershipRank": 912,
-    "totalDonutsBurned": 180000.0,
-    "totalBoughtMonthsMembership": 900.0,
+    "membershipRank": 1013,
+    "totalDonutsBurned": 200000.0,
+    "totalBoughtMonthsMembership": 1000.0,
     "spentDays": 1505,
-    "notSpentDays": 25870
+    "notSpentDays": 28911
   },
   {
     "username": "twigwam",
@@ -306,8 +306,8 @@
     "membershipRank": 24,
     "totalDonutsBurned": 4800.0,
     "totalBoughtMonthsMembership": 24.0,
-    "spentDays": 180,
-    "notSpentDays": 550
+    "spentDays": 181,
+    "notSpentDays": 549
   },
   {
     "username": "rustedpopcorn",
