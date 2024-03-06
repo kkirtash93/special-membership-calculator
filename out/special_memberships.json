@@ -702,12 +702,12 @@
   {
     "username": "pythonskynet",
     "address": "0xe7F3c9746282d534f8C90fD410624333e23AC565",
-    "activeMembership": true,
-    "membershipRank": 12,
-    "totalDonutsBurned": 2400.0,
-    "totalBoughtMonthsMembership": 12.0,
-    "spentDays": 183,
-    "notSpentDays": 182
+    "activeMembership": false,
+    "membershipRank": 0,
+    "totalDonutsBurned": 0,
+    "totalBoughtMonthsMembership": 0.0,
+    "spentDays": 0,
+    "notSpentDays": 0
   },
   {
     "username": "Fantastic-Offer-9129",
