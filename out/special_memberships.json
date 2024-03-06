@@ -622,12 +622,12 @@
   {
     "username": "rootpl",
     "address": "0xEdc0321b407b165CF926BE3E77ecB6C791f731bA",
-    "activeMembership": true,
+    "activeMembership": false,
     "membershipRank": 6,
     "totalDonutsBurned": 1200.0,
     "totalBoughtMonthsMembership": 6.0,
-    "spentDays": 152,
-    "notSpentDays": 30
+    "spentDays": 182.5,
+    "notSpentDays": 0
   },
   {
     "username": "spacsandspacs",
