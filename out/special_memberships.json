@@ -732,12 +732,12 @@
   {
     "username": "TheNano100",
     "address": "0x3A11c76440655D4DdFF16a4aDAbBa15E98E89786",
-    "activeMembership": true,
-    "membershipRank": 14,
-    "totalDonutsBurned": 2800.0,
-    "totalBoughtMonthsMembership": 14.0,
-    "spentDays": 164,
-    "notSpentDays": 261
+    "activeMembership": false,
+    "membershipRank": 0,
+    "totalDonutsBurned": 0,
+    "totalBoughtMonthsMembership": 0.0,
+    "spentDays": 0,
+    "notSpentDays": 0
   },
   {
     "username": "Sunryzen",
