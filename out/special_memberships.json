@@ -792,11 +792,11 @@
   {
     "username": "CoolCoolPapaOldSkool",
     "address": "0x3e94cE15A42a8E8a0AbE405a7B0dc4F00f2862Db",
-    "activeMembership": true,
+    "activeMembership": false,
     "membershipRank": 6,
     "totalDonutsBurned": 1200.0,
     "totalBoughtMonthsMembership": 6.0,
-    "spentDays": 182,
+    "spentDays": 182.5,
     "notSpentDays": 0
   },
   {
