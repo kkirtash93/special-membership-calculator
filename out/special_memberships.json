@@ -162,12 +162,12 @@
   {
     "username": "litpath",
     "address": "0x580de5ae2b029198a282e146c8612811ec600522",
-    "activeMembership": true,
-    "membershipRank": 81,
-    "totalDonutsBurned": 16000.0,
-    "totalBoughtMonthsMembership": 80.0,
-    "spentDays": 1356,
-    "notSpentDays": 1077
+    "activeMembership": false,
+    "membershipRank": 0,
+    "totalDonutsBurned": 0,
+    "totalBoughtMonthsMembership": 0.0,
+    "spentDays": 0,
+    "notSpentDays": 0
   },
   {
     "username": "OrangeLambo",
