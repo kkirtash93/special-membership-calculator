@@ -1022,11 +1022,11 @@
   {
     "username": "TokenMining",
     "address": "0x274F7DC36eE5705ea3244EBCeba8b411751E6d48",
-    "activeMembership": true,
-    "membershipRank": 25,
-    "totalDonutsBurned": 5000.0,
-    "totalBoughtMonthsMembership": 25.0,
-    "spentDays": 195,
-    "notSpentDays": 565
+    "activeMembership": false,
+    "membershipRank": 0,
+    "totalDonutsBurned": 0,
+    "totalBoughtMonthsMembership": 0.0,
+    "spentDays": 0,
+    "notSpentDays": 0
   }
 ]
