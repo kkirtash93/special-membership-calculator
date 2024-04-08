@@ -72,12 +72,12 @@
   {
     "username": "Basoosh",
     "address": "0x80148c5d2b61182107f43FAE67f8F2ec4b5dbcDE",
-    "activeMembership": true,
-    "membershipRank": 414,
-    "totalDonutsBurned": 81800.0,
-    "totalBoughtMonthsMembership": 409.0,
-    "spentDays": 1539,
-    "notSpentDays": 10901
+    "activeMembership": false,
+    "membershipRank": 0,
+    "totalDonutsBurned": 0,
+    "totalBoughtMonthsMembership": 0.0,
+    "spentDays": 0,
+    "notSpentDays": 0
   },
   {
     "username": "psswrd12345",
