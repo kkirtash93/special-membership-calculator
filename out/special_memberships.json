@@ -16,8 +16,8 @@
     "membershipRank": 426,
     "totalDonutsBurned": 84200.0,
     "totalBoughtMonthsMembership": 421.0,
-    "spentDays": 1567,
-    "notSpentDays": 11238
+    "spentDays": 1568,
+    "notSpentDays": 11237
   },
   {
     "username": "nbr1bonehead",
@@ -592,11 +592,11 @@
   {
     "username": "LivingFondant1419",
     "address": "0x3630De8985d2B2Ff2D6f0f5876a368ba2C1A9b3a",
-    "activeMembership": true,
+    "activeMembership": false,
     "membershipRank": 7,
     "totalDonutsBurned": 1400.0,
     "totalBoughtMonthsMembership": 7.0,
-    "spentDays": 212,
+    "spentDays": 212.91666666666669,
     "notSpentDays": 0
   },
   {
