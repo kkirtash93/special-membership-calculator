@@ -252,12 +252,12 @@
   {
     "username": "BatsForCats",
     "address": "0x1A93d1B890335B0CD48C6Cc1f71A3387Ab94cE8a",
-    "activeMembership": true,
-    "membershipRank": 354,
-    "totalDonutsBurned": 70000.0,
-    "totalBoughtMonthsMembership": 350.0,
-    "spentDays": 1482,
-    "notSpentDays": 9163
+    "activeMembership": false,
+    "membershipRank": 25,
+    "totalDonutsBurned": 5000.0,
+    "totalBoughtMonthsMembership": 25.0,
+    "spentDays": 760.4166666666667,
+    "notSpentDays": 0
   },
   {
     "username": "jarins",
