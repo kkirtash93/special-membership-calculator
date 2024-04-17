@@ -332,12 +332,12 @@
   {
     "username": "lifelifelif",
     "address": "0x26bc7daff54a8fe4d385c37d6d56b0400a66aa0e",
-    "activeMembership": true,
-    "membershipRank": 329,
-    "totalDonutsBurned": 65000.0,
-    "totalBoughtMonthsMembership": 325.0,
-    "spentDays": 1348,
-    "notSpentDays": 8537
+    "activeMembership": false,
+    "membershipRank": 0,
+    "totalDonutsBurned": 0,
+    "totalBoughtMonthsMembership": 0.0,
+    "spentDays": 0,
+    "notSpentDays": 0
   },
   {
     "username": "Freimusic",
