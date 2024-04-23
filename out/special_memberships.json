@@ -613,11 +613,11 @@
     "username": "kirtash93",
     "address": "0xa51731189c99832A2ba2f28C6c2dc1Db451F3a2e",
     "activeMembership": true,
-    "membershipRank": 22,
-    "totalDonutsBurned": 4400.0,
-    "totalBoughtMonthsMembership": 22.0,
+    "membershipRank": 18,
+    "totalDonutsBurned": 3600.0,
+    "totalBoughtMonthsMembership": 18.0,
     "spentDays": 219,
-    "notSpentDays": 450
+    "notSpentDays": 328
   },
   {
     "username": "rootpl",
