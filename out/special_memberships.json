@@ -532,12 +532,12 @@
   {
     "username": "420weedscopes",
     "address": "0x4d22f2d09f9E49B014E3a1AFC4f903a25a8c17FD",
-    "activeMembership": true,
+    "activeMembership": false,
     "membershipRank": 31,
     "totalDonutsBurned": 6200.0,
     "totalBoughtMonthsMembership": 31.0,
-    "spentDays": 729,
-    "notSpentDays": 213
+    "spentDays": 942.9166666666667,
+    "notSpentDays": 0
   },
   {
     "username": "Feisty-Kitchen2760",
