@@ -22,12 +22,12 @@
   {
     "username": "nbr1bonehead",
     "address": "0x8Cbe06fAD615aC28659aa282Fe73Bed9f45b0cC3",
-    "activeMembership": true,
-    "membershipRank": 1013,
-    "totalDonutsBurned": 200000.0,
-    "totalBoughtMonthsMembership": 1000.0,
-    "spentDays": 1602,
-    "notSpentDays": 28814
+    "activeMembership": false,
+    "membershipRank": 0,
+    "totalDonutsBurned": 0,
+    "totalBoughtMonthsMembership": 0.0,
+    "spentDays": 0,
+    "notSpentDays": 0
   },
   {
     "username": "twigwam",
@@ -53,11 +53,11 @@
     "username": "nootropicat",
     "address": "0x52727E01d666BeF35cEF630E14E096CA873d2783",
     "activeMembership": true,
-    "membershipRank": 3850,
-    "totalDonutsBurned": 759600.0,
-    "totalBoughtMonthsMembership": 3798.0,
+    "membershipRank": 3345,
+    "totalDonutsBurned": 659999.9999999999,
+    "totalBoughtMonthsMembership": 3299.9999999999995,
     "spentDays": 1589,
-    "notSpentDays": 113933
+    "notSpentDays": 98786
   },
   {
     "username": "WeLiveInaBubble",
