@@ -53,11 +53,11 @@
     "username": "nootropicat",
     "address": "0x52727E01d666BeF35cEF630E14E096CA873d2783",
     "activeMembership": true,
-    "membershipRank": 2027,
-    "totalDonutsBurned": 399999.99999999994,
-    "totalBoughtMonthsMembership": 1999.9999999999998,
-    "spentDays": 1512,
-    "notSpentDays": 59321
+    "membershipRank": 3850,
+    "totalDonutsBurned": 759600.0,
+    "totalBoughtMonthsMembership": 3798.0,
+    "spentDays": 1590,
+    "notSpentDays": 113932
   },
   {
     "username": "WeLiveInaBubble",
@@ -212,12 +212,12 @@
   {
     "username": "ckd001",
     "address": "0x12c2d006F5471bbd71a694d14a47aCC326BA3037",
-    "activeMembership": true,
-    "membershipRank": 608,
-    "totalDonutsBurned": 120000.0,
-    "totalBoughtMonthsMembership": 600.0,
-    "spentDays": 1631,
-    "notSpentDays": 16619
+    "activeMembership": false,
+    "membershipRank": 0,
+    "totalDonutsBurned": 0,
+    "totalBoughtMonthsMembership": 0.0,
+    "spentDays": 0,
+    "notSpentDays": 0
   },
   {
     "username": "to_the_moooooon",
