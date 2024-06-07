@@ -892,12 +892,12 @@
   {
     "username": "suikonami",
     "address": "0x002fb0c5d1209f8f5616BA3d211Be36c4D237d55",
-    "activeMembership": true,
-    "membershipRank": 12,
-    "totalDonutsBurned": 2400.0,
-    "totalBoughtMonthsMembership": 12.0,
-    "spentDays": 295,
-    "notSpentDays": 70
+    "activeMembership": false,
+    "membershipRank": 0,
+    "totalDonutsBurned": 0,
+    "totalBoughtMonthsMembership": 0.0,
+    "spentDays": 0,
+    "notSpentDays": 0
   },
   {
     "username": "Crypto-4-Freedom",
