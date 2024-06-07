@@ -3,11 +3,11 @@
     "username": "carlslarson",
     "address": "0x95D9bED31423eb7d5B68511E0352Eae39a3CDD20",
     "activeMembership": true,
-    "membershipRank": 18712,
-    "totalDonutsBurned": 3691199.9999999995,
-    "totalBoughtMonthsMembership": 18455.999999999996,
-    "spentDays": 1632,
-    "notSpentDays": 559738
+    "membershipRank": 4256,
+    "totalDonutsBurned": 839599.9999999999,
+    "totalBoughtMonthsMembership": 4197.999999999999,
+    "spentDays": 1556,
+    "notSpentDays": 126133
   },
   {
     "username": "aminok",
@@ -612,12 +612,12 @@
   {
     "username": "kirtash93",
     "address": "0xa51731189c99832A2ba2f28C6c2dc1Db451F3a2e",
-    "activeMembership": true,
-    "membershipRank": 22,
-    "totalDonutsBurned": 4400.0,
-    "totalBoughtMonthsMembership": 22.0,
-    "spentDays": 263,
-    "notSpentDays": 406
+    "activeMembership": false,
+    "membershipRank": 4,
+    "totalDonutsBurned": 800.0,
+    "totalBoughtMonthsMembership": 4.0,
+    "spentDays": 121.66666666666667,
+    "notSpentDays": 0
   },
   {
     "username": "rootpl",
