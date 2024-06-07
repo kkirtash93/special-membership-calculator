@@ -183,11 +183,11 @@
     "username": "Pandora_Key",
     "address": "0xB5e3F5A03308Cac8D0b47E42356C235934Ff9021",
     "activeMembership": true,
-    "membershipRank": 176,
-    "totalDonutsBurned": 34800.0,
-    "totalBoughtMonthsMembership": 174.0,
-    "spentDays": 1532,
-    "notSpentDays": 3760
+    "membershipRank": 97,
+    "totalDonutsBurned": 19200.0,
+    "totalBoughtMonthsMembership": 96.0,
+    "spentDays": 1439,
+    "notSpentDays": 1481
   },
   {
     "username": "redbullatwork",
@@ -722,12 +722,12 @@
   {
     "username": "scientifichistorian",
     "address": "0xb17DcDD2bcd04d9B19B768d87600a5B5b45db82d",
-    "activeMembership": true,
-    "membershipRank": 12,
-    "totalDonutsBurned": 2400.0,
-    "totalBoughtMonthsMembership": 12.0,
-    "spentDays": 284,
-    "notSpentDays": 81
+    "activeMembership": false,
+    "membershipRank": 0,
+    "totalDonutsBurned": 0,
+    "totalBoughtMonthsMembership": 0.0,
+    "spentDays": 0,
+    "notSpentDays": 0
   },
   {
     "username": "TheNano100",
@@ -862,12 +862,12 @@
   {
     "username": "SoulUrgeDestiny",
     "address": "0xA503c0E06e5cCf0B599771339158aDF58FAe8728",
-    "activeMembership": true,
-    "membershipRank": 12,
-    "totalDonutsBurned": 2400.0,
-    "totalBoughtMonthsMembership": 12.0,
-    "spentDays": 284,
-    "notSpentDays": 81
+    "activeMembership": false,
+    "membershipRank": 0,
+    "totalDonutsBurned": 0,
+    "totalBoughtMonthsMembership": 0.0,
+    "spentDays": 0,
+    "notSpentDays": 0
   },
   {
     "username": "goldyluckinblokchain",
