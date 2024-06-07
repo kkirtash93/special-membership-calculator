@@ -82,12 +82,12 @@
   {
     "username": "psswrd12345",
     "address": "0x2ca7F11055C919748F10b1991B6Ba6D4CC58d3f3",
-    "activeMembership": true,
-    "membershipRank": 608,
-    "totalDonutsBurned": 120000.0,
-    "totalBoughtMonthsMembership": 600.0,
-    "spentDays": 1630,
-    "notSpentDays": 16620
+    "activeMembership": false,
+    "membershipRank": 0,
+    "totalDonutsBurned": 0,
+    "totalBoughtMonthsMembership": 0.0,
+    "spentDays": 0,
+    "notSpentDays": 0
   },
   {
     "username": "peppers_",
@@ -133,11 +133,11 @@
     "username": "thepaypay",
     "address": "0x83f6fe95067E24AF601b1B822430c72C0098d208",
     "activeMembership": true,
-    "membershipRank": 136,
-    "totalDonutsBurned": 27000.0,
-    "totalBoughtMonthsMembership": 135.0,
+    "membershipRank": 167,
+    "totalDonutsBurned": 33000.0,
+    "totalBoughtMonthsMembership": 165.0,
     "spentDays": 1405,
-    "notSpentDays": 2701
+    "notSpentDays": 3613
   },
   {
     "username": "Eth_Man",
@@ -863,11 +863,11 @@
     "username": "SoulUrgeDestiny",
     "address": "0xA503c0E06e5cCf0B599771339158aDF58FAe8728",
     "activeMembership": true,
-    "membershipRank": 11,
-    "totalDonutsBurned": 2200.0,
-    "totalBoughtMonthsMembership": 11.0,
+    "membershipRank": 12,
+    "totalDonutsBurned": 2400.0,
+    "totalBoughtMonthsMembership": 12.0,
     "spentDays": 284,
-    "notSpentDays": 50
+    "notSpentDays": 81
   },
   {
     "username": "goldyluckinblokchain",
