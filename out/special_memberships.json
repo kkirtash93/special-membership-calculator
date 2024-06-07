@@ -92,12 +92,12 @@
   {
     "username": "peppers_",
     "address": "0x32498e61176646Dee8DbC56f642bDa4cAc31AC6a",
-    "activeMembership": true,
-    "membershipRank": 329,
-    "totalDonutsBurned": 65000.0,
-    "totalBoughtMonthsMembership": 325.0,
-    "spentDays": 1601,
-    "notSpentDays": 8284
+    "activeMembership": false,
+    "membershipRank": 25,
+    "totalDonutsBurned": 5000.0,
+    "totalBoughtMonthsMembership": 25.0,
+    "spentDays": 760.4166666666667,
+    "notSpentDays": 0
   },
   {
     "username": "FuckFaceGG",
@@ -133,11 +133,11 @@
     "username": "thepaypay",
     "address": "0x83f6fe95067E24AF601b1B822430c72C0098d208",
     "activeMembership": true,
-    "membershipRank": 167,
-    "totalDonutsBurned": 33000.0,
-    "totalBoughtMonthsMembership": 165.0,
+    "membershipRank": 136,
+    "totalDonutsBurned": 27000.0,
+    "totalBoughtMonthsMembership": 135.0,
     "spentDays": 1405,
-    "notSpentDays": 3613
+    "notSpentDays": 2701
   },
   {
     "username": "Eth_Man",
@@ -712,12 +712,12 @@
   {
     "username": "Fantastic-Offer-9129",
     "address": "0x76cA18FB5A1c48BF38e47F2D8239f038bD884813",
-    "activeMembership": true,
-    "membershipRank": 378,
-    "totalDonutsBurned": 74600.0,
-    "totalBoughtMonthsMembership": 373.0,
-    "spentDays": 436,
-    "notSpentDays": 10909
+    "activeMembership": false,
+    "membershipRank": 0,
+    "totalDonutsBurned": 0,
+    "totalBoughtMonthsMembership": 0.0,
+    "spentDays": 0,
+    "notSpentDays": 0
   },
   {
     "username": "scientifichistorian",
@@ -863,11 +863,11 @@
     "username": "SoulUrgeDestiny",
     "address": "0xA503c0E06e5cCf0B599771339158aDF58FAe8728",
     "activeMembership": true,
-    "membershipRank": 12,
-    "totalDonutsBurned": 2400.0,
-    "totalBoughtMonthsMembership": 12.0,
+    "membershipRank": 11,
+    "totalDonutsBurned": 2200.0,
+    "totalBoughtMonthsMembership": 11.0,
     "spentDays": 284,
-    "notSpentDays": 81
+    "notSpentDays": 50
   },
   {
     "username": "goldyluckinblokchain",
