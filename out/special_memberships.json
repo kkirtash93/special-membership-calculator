@@ -182,12 +182,12 @@
   {
     "username": "Pandora_Key",
     "address": "0xB5e3F5A03308Cac8D0b47E42356C235934Ff9021",
-    "activeMembership": true,
-    "membershipRank": 176,
-    "totalDonutsBurned": 34800.0,
-    "totalBoughtMonthsMembership": 174.0,
-    "spentDays": 1550,
-    "notSpentDays": 3742
+    "activeMembership": false,
+    "membershipRank": 3,
+    "totalDonutsBurned": 600.0,
+    "totalBoughtMonthsMembership": 3.0,
+    "spentDays": 91.25,
+    "notSpentDays": 0
   },
   {
     "username": "redbullatwork",
