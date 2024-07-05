@@ -422,12 +422,12 @@
   {
     "username": "evil_betty_",
     "address": "0x1A86440fD49a1e85C46c66ba64C46b98b0e3b6Ab",
-    "activeMembership": true,
-    "membershipRank": 48,
-    "totalDonutsBurned": 9600.0,
-    "totalBoughtMonthsMembership": 48.0,
-    "spentDays": 516,
-    "notSpentDays": 944
+    "activeMembership": false,
+    "membershipRank": 0,
+    "totalDonutsBurned": 0,
+    "totalBoughtMonthsMembership": 0.0,
+    "spentDays": 0,
+    "notSpentDays": 0
   },
   {
     "username": "SolorMining",
