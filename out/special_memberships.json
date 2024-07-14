@@ -152,12 +152,12 @@
   {
     "username": "alicenekocat",
     "address": "0x5f3CF2Be0c4df420d2f9aa1a7DB1b27a74f5e5Cf",
-    "activeMembership": true,
-    "membershipRank": 304,
-    "totalDonutsBurned": 60000.0,
-    "totalBoughtMonthsMembership": 300.0,
-    "spentDays": 1658,
-    "notSpentDays": 7467
+    "activeMembership": false,
+    "membershipRank": 0,
+    "totalDonutsBurned": 0,
+    "totalBoughtMonthsMembership": 0.0,
+    "spentDays": 0,
+    "notSpentDays": 0
   },
   {
     "username": "litpath",
