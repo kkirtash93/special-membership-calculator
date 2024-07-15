@@ -312,12 +312,12 @@
   {
     "username": "rustedpopcorn",
     "address": "0xd2D117e6dbbfdD74D6b865ff859a4611bD29F3Ed",
-    "activeMembership": true,
-    "membershipRank": 49,
-    "totalDonutsBurned": 9800.0,
-    "totalBoughtMonthsMembership": 49.0,
-    "spentDays": 333,
-    "notSpentDays": 1157
+    "activeMembership": false,
+    "membershipRank": 0,
+    "totalDonutsBurned": 0,
+    "totalBoughtMonthsMembership": 0.0,
+    "spentDays": 0,
+    "notSpentDays": 0
   },
   {
     "username": "z6joker9",
