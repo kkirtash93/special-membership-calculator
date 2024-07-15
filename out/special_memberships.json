@@ -1002,12 +1002,12 @@
   {
     "username": "Atyzze",
     "address": "0x92ddbdfCEE1301F827c6228B65A1B46b0E871fc2",
-    "activeMembership": true,
-    "membershipRank": 35,
-    "totalDonutsBurned": 7000.0,
-    "totalBoughtMonthsMembership": 35.0,
-    "spentDays": 278,
-    "notSpentDays": 786
+    "activeMembership": false,
+    "membershipRank": 0,
+    "totalDonutsBurned": 0,
+    "totalBoughtMonthsMembership": 0.0,
+    "spentDays": 0,
+    "notSpentDays": 0
   },
   {
     "username": "doctorwho_cares",
