@@ -582,12 +582,12 @@
   {
     "username": "raymv1987",
     "address": "0x2A043F315F24762937CBCf0EB6CB313a43bDE534",
-    "activeMembership": true,
+    "activeMembership": false,
     "membershipRank": 24,
     "totalDonutsBurned": 4800.0,
     "totalBoughtMonthsMembership": 24.0,
-    "spentDays": 729,
-    "notSpentDays": 1
+    "spentDays": 730.0,
+    "notSpentDays": 0
   },
   {
     "username": "LivingFondant1419",
